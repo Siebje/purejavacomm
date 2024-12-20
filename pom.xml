@@ -2,7 +2,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.github.purejavacomm</groupId>
-	<artifactId>purejavacomm</artifactId>
+	<artifactId>purejavacomm-jpms</artifactId>
 	<version>1.0.4</version>
 
 	<name>PureJavaComm</name>
@@ -116,7 +116,7 @@
 	<dependencies>
 		<dependency>
 			<groupId>net.java.dev.jna</groupId>
-			<artifactId>jna</artifactId>
+			<artifactId>jna-jpms</artifactId>
 			<version>5.13.0</version>
 		</dependency>
 	</dependencies>
